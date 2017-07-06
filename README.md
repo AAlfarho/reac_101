@@ -1,2 +1,2 @@
-# reac_101
+# react_101
 Preflight react playground
