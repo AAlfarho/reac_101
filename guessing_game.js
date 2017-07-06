@@ -1,3 +1,4 @@
+//copy and paste this into https://jscomplete.com/repl
 var possibleCombinationSum = function(arr, n) {
   if (arr.indexOf(n) >= 0) { return true; }
   if (arr[0] > n) { return false; }
